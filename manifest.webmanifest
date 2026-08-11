@@ -1,13 +1,13 @@
 {
   "name": "Antoine Training",
   "short_name": "Training",
-  "description": "Programme personnel d'entraînement et suivi de progression.",
+  "description": "Programme personnel de remise en forme et suivi d’entraînement.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FBF6EF",
-  "theme_color": "#0B4C6F",
+  "theme_color": "#0A4B6C",
   "icons": [
     {
       "src": "./icon-192.png",
